@@ -8,8 +8,8 @@ This repository is to be used as a template to create your own repository in you
 
 From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template.
 
-Name your repo: `ci-cd-final-project`.
-
+Name your repo: `ci-cd-final-project `.
+Project name: 'ci-cd-final-project'
 ## Setup
 
 After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
